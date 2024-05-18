@@ -104,7 +104,7 @@ public class AddTicketController {
     @FXML
     private void onFinishButtonClick() {
         try {
-            TicketDAO.addTicket(cruiseID);
+            TicketDAO.addTicket(cruiseID, add_ticket_nameTextField.getText() , add_ticket_secNameTextField.getText());
             Alert alert = new Alert(Alert.AlertType.INFORMATION);
             alert.setTitle("Успішне замовлення");
             alert.setHeaderText(null);
