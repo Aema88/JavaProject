@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gluonhq.attach:util:4.0.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.gluonhq.attach" artifactId="util" version="4.0.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/util/4.0.9/89c44e10cc86fb3f57e7bbe0eba8e3861603e05c/util-4.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/util/4.0.9/ff9f22c2b5d2e41567637723d8fb9564ff2d7f3c/util-4.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

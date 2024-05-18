@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.almasb:fxgl-gameplay:11.17" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.almasb" artifactId="fxgl-gameplay" version="11.17" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.almasb/fxgl-gameplay/11.17/34f6d4b357fc4289924403404e847e41da18ebdc/fxgl-gameplay-11.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.almasb/fxgl-gameplay/11.17/50d86550fe97afc8059667f714736e15b8cd7dd6/fxgl-gameplay-11.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
